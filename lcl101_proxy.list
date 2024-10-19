@@ -19,12 +19,9 @@ gradio.s3-us-west-2.amazonaws.com
 +.v2rayssr.com
 +.appcenter.ms
 +.clipdrop.co
-+.daojia-inc.com,DIRECT
 +.星链云.com
 +.beautyandbeast.link
 +.scriptcat.org
-+.daojia-inc.com,DIRECT
-+.asants.com,REJECT
 +.python.org
 +.pythonhosted.org
 +.githubusercontent.com
@@ -119,8 +116,6 @@ gradio.s3-us-west-2.amazonaws.com
 +.nodeseek.com
 +.apkpure.net
 +.us.kg
-+.hm.baidu.com,DIRECT
-+.baidu.gitee.io,DIRECT
 +.pasyun.com
 +.trackerslist.com
 +.docker.com
@@ -140,3 +135,5 @@ gradio.s3-us-west-2.amazonaws.com
 +.hicairo.com
 +.videolan.org
 +.casaos.io
++.guobaotegong.me
++.gbtgurl.me
