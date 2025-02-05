@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,conman.org
   - DOMAIN-SUFFIX,bortzmeyer.org
   - DOMAIN-SUFFIX,sora.com
+  - DOMAIN-SUFFIX,groq.com
 
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleapis.cn
