@@ -39,3 +39,4 @@ payload:
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,signalr.net
+  - DOMAIN-SUFFIX,manus.im
