@@ -12,6 +12,7 @@ DOMAIN,hk_cf.lcl101.top
 DOMAIN,jp_cf.lcl101.top
 DOMAIN,us_cf.lcl101.top
 DOMAIN,lm_cf.lcl101.top
+DOMAIN,github.lcl101.top
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,wto.org
